@@ -1,6 +1,6 @@
 # Code Review Report
 
-**URL:** https://github.com/c0m4r/editor\
+**URL:** https://github.com/c0m4r/editor \
 **Description:** A lightweight terminal-based text editor for GNU/Linux with zero external dependencies. Written in pure C using only standard libraries.
 
 ---
@@ -137,5 +137,5 @@ The code is a straightforward, legitimate text editor implementation with no sus
 
 ---
 
-*Review conducted on: 2026-02-02*\
+*Review conducted on: 2026-02-02* \
 *Reviewer: Kimi 2.5 Agent*
