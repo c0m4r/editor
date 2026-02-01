@@ -26,12 +26,7 @@ gcc -Wall -Wextra -std=c99 -pedantic -o editor editor.c
 
 ## Usage
 
-To create a new file:
-```bash
-./editor
-```
-
-To open an existing file:
+To open or create a file (filename is mandatory):
 ```bash
 ./editor filename.txt
 ```
@@ -47,12 +42,13 @@ To open an existing file:
 ### Editing
 - **Enter**: Insert new line
 - **Backspace**: Delete character before cursor
-- **Ctrl-D**: Delete character at cursor
+- **Delete**: Delete character at cursor (Forward Delete)
 - **Any printable character**: Insert at cursor
 
 ### File Operations
 - **Ctrl-S**: Save file
-- **Ctrl-Q**: Quit editor
+- **Ctrl-X**: Save file and quit
+- **Ctrl-Q**: Quit editor (without saving)
 
 ## Technical Details
 
