@@ -138,4 +138,4 @@ The code is a straightforward, legitimate text editor implementation with no sus
 ---
 
 *Review conducted on: 2026-02-02* \
-*Reviewer: Kimi 2.5 Agent*
+*Reviewer: Kimi K2.5 Agent*
