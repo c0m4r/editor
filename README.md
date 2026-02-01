@@ -2,6 +2,8 @@
 
 A lightweight terminal-based text editor for GNU/Linux with zero external dependencies. Written in pure C using only standard libraries.
 
+Vibe coded with Claude 4.5 Opus (Thinking) via Google Antigravity.
+
 ## Features
 
 - No external dependencies (only standard C library)
@@ -79,7 +81,3 @@ This will copy the binary to `/usr/local/bin/`.
 - Modified files are marked with "(modified)" in the status bar
 - Currently no confirmation on quit with unsaved changes (planned feature)
 - Maximum line length is dynamically allocated
-
-## License
-
-This is a simple educational text editor. Feel free to use and modify as needed.
